@@ -59,7 +59,7 @@ These things may be implemented if we have time to do them
 	When sending a duel request, you choose when to give up and what attack mode you want (offensive/defensive, hard hitting/light hitting) etc.
 	The attack modes affect your strength and agility stats depending on your choices. 
 
-# Technical specifications
+# Technological specifications
 
 ## Front-end
 	Angular
